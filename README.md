@@ -1,2 +1,5 @@
-#Hoc git
+# Hoc git
+
 git
+
+# git log
